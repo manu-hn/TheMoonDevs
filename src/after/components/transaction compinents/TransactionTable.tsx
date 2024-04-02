@@ -1,3 +1,4 @@
+import TransactionTableStyled from "./TransactionTableStyled";
 
 type TransactionTableProps = {
   burnTransactions: string;

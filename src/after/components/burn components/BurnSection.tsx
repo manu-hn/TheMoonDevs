@@ -1,3 +1,5 @@
+import BurnButtonBar from "./BurnButtonBar";
+
 type BurnSectionFunction = (amount: string) => void;
 type ExecuteBurnBurnSectionFunction = () => void;
 type BurnSectionProps = {

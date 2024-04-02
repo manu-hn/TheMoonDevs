@@ -1,3 +1,5 @@
+import ChainSelector from "./ChainSelector";
+
 type ChainSelectorComponentProps = {
   openChainSelector: boolean,
   setOpenChainSelector: any,

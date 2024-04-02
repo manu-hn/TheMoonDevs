@@ -1,46 +1,29 @@
-# Getting Started with Create React App
+# The Moon Devs
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Refactored Code and Component Organization
 
-## Available Scripts
+### Overview
 
-In the project directory, you can run:
+Hey MoonDevs,
 
-### `npm start`
+In accordance with the project requirements, I've cleaned up the code to make it easier to read and work with. I moved things around in the folders so it's simpler to find stuff.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Folder Structure
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+I've organized the code into separate folders for different types of parts. This makes things neater and helps you find what you need faster. For example, if you're looking for the BurnSection part, just go to the "burn section" folder and you'll find it there.
 
-### `npm test`
+### Benefits
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+##### This rearrangement helps in a few ways:
 
-### `npm run build`
+- Easier to Read: Now the code is arranged in a clear way, so it's simpler for developers to understand and find what they're looking for.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Easier to Update: By separating components into their own folders, it's easier to make changes later without causing problems.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- Faster Development: Developers can quickly find and work on specific parts without getting lost in a big folder mess.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+### Conclusion
+I've tried my best to clean up the code and make it easier for us to work with in the future. Thanks for letting me work on this and make the project better.
+<br />
+Thanks, <br />
+Manu H N

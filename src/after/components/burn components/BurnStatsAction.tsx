@@ -1,3 +1,4 @@
+import BurnStatsContainer from "./BurnStatsContainer";
 
 type BurnStatsProps = {
   statsSupplies: {};

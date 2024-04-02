@@ -1,9 +1,9 @@
-import AppToastComponent from "./components/AppToastComponent";
-import BurnPageTitle from "./components/BurnPageTitle";
-import BurnSection from "./components/BurnSection";
-import BurnStatsSection from "./components/BurnStatsAction";
-import ChainSelectorComponent from "./components/ChainSelectorComponent";
-import TransactionTable from "./components/TransactionTable";
+import AppToastComponent from "./components/app toast components/AppToastComponent";
+import BurnPageTitle from "./components/burn components/BurnPageTitle";
+import BurnSection from "./components/burn components/BurnSection";
+import BurnStatsSection from "./components/burn components/BurnStatsAction";
+import ChainSelectorComponent from "./components/chain comonents/ChainSelectorComponent";
+import TransactionTable from "./components/transaction compinents/TransactionTable";
 import useBurnPage from "./hooks/useBurnPage";
 import { DashboardLayoutStyled } from "./utils/Helper";
 
